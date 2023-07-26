@@ -12,8 +12,9 @@ Meet and greet:   from 6.15pm
 
 Meeting Venue:   The Loft above the Archive, 100 Boundary Street, West End
 
-Parking:  Street parking! Some Wednesday's are quiet and some are busy! PLEASE take care to note the parking restrictions. They differ from street to street. Some places are free from 5pm, some from 7pm and others not until 10pm!  
+Parking:  Street parking! Some Wednesday's are quiet and some are busy! PLEASE take care to note the parking restrictions. They differ from street to street. Some places are free from 5pm, some from 7pm and others not until 10pm!
 
+{% include location.html %}
 
 
 ## Easy Speak

@@ -17,7 +17,7 @@ Parking:  Street parking! Some Wednesday's are quiet and some are busy! PLEASE t
 
 
 ## Easy Speak
-The [Easy Speak website]|(https://easy-speak.org/webcal_subscribe.php) contains a page under `Meetings` -> `Subscribe to Web Calendar`. From here the best option is to copy the Microsoft Outlook 2007 and higher address and add it to your calendar of choice.
+The [Easy Speak website](https://easy-speak.org/webcal_subscribe.php) contains a page under `Meetings` -> `Subscribe to Web Calendar`. From here the best option is to copy the Microsoft Outlook 2007 and higher address and add it to your calendar of choice.
 * [Adding a public calendar to Gmail](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop)
 
 ## Meeting Schedule

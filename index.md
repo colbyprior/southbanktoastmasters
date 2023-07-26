@@ -19,7 +19,7 @@ Whether you want to
 
 We meet twice a month and vistiors/guests are always welcome.
 
-Either show up on the night or contact us prior at “sthbanktm@gmail.com”. 
+Either show up on the night or contact us prior at [sthbanktm@gmail.com](mailto:sthbanktm@gmail.com). 
 
 # Easy Speak
 We use [Easy Speak](https://easy-speak.org/clubdata.php?c=5343) to organise meeting agendas. From here you can view the next available meetings agenda.

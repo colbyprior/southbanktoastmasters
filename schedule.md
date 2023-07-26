@@ -21,5 +21,3 @@ The [Easy Speak website](https://easy-speak.org/webcal_subscribe.php) contains a
 * [Adding a public calendar to Gmail](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop)
 * [Adding a public calendar to Office365](https://support.microsoft.com/en-au/office/import-or-subscribe-to-a-calendar-in-outlook-on-the-web-503ffaf6-7b86-44fe-8dd6-8099d95f38df)
 
-## Meeting Schedule
-{% include calendar.html %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /
+order: 1
 ---
 
 # Got great ideas, but need help articulating them?

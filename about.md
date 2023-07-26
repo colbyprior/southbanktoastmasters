@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## General Inquiries
+[sthbanktm@gmail.com](mailto:sthbanktm@gmail.com)
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## Numbers
+Other Inquiries: 0427 857 675 (Club President)
+Membership Inquiries: 0411 245 459 (VP Membership)

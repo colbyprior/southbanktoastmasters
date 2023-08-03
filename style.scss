@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: #3d4061;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -28,6 +28,10 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  color: #595959
+  background-color: #e2eeff
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -46,17 +50,17 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  a {
-    color: inherit;
-  }
+  color: $darkerGray;
 }
 
 h2 {
   font-size: 24px;
+  color: $darkerGray;
 }
 
 h3 {
   font-size: 20px;
+  color: $darkerGray;
 }
 
 h4 {
@@ -152,6 +156,8 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
 }
 
 .masthead {

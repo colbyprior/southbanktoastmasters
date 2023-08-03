@@ -28,8 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  border-bottom-left-radius: 25px;
-  border-bottom-right-radius: 25px;
+  border-radius: 10px;
   color: #595959;
   background-color: #e2eeff;
 }
@@ -156,8 +155,6 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
 }
 
 .masthead {

@@ -9,6 +9,9 @@ We are a group of fun-loving individuals, from all walks of life. We meet twice 
 
 We give our members a place to hone their public speaking skills with valuable and helpful feedback. We emphasise on positive encouragement and personal growth rather than point scoring. As such we accomodate from nervous beginner through the more experienced and relaxed performers. 
 
+
+![_config.yml]({{ site.baseurl }}/images/bluelogo.jpeg)
+
 ## What should I expect out of a meeting?
 A typical evening program runs from 6:15 pm until 8:50 pm. It works on a strict timekeeping structure, which generally allows 5-7 minutes for the 3 main speakers who feature each week. Members work their way through pathways with defined goals to achieve recognised levels of Toastmaster competency! Meanwhile, each meeting will have an array of roles including:
 

@@ -4,11 +4,11 @@ title: Got great ideas, but need help articulating them?
 order: 1
 ---
 
-![_config.yml]({{ site.baseurl }}/images/blur.jpeg)
-
 Don’t just SAY you’ll become a better speaker, come and BE that better speaker! SouthBank Toastmasters can help you with your public speaking, leadership development, and interpersonal skills.
 
 Come visit the club at one of our regular meetings. We meet at Loft (above Archive Beer Boutique) in West End. Let’s share a couple of tasty tipples and maybe some banter!
+
+![_config.yml]({{ site.baseurl }}/images/blur.jpeg)
 
 ## SouthBank Toastmasters Club has been providing a mutually supportive environment for individuals to improve their public speaking skills for over 20 years.
 Whether you want to
